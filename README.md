@@ -2,8 +2,6 @@
 
 A responsive and interactive personal portfolio website built using **HTML**, **CSS (SCSS)**, and **JavaScript**. Showcases projects, skills, education, and contact information with smooth animations and a modern UI.
 
-🔗 **Live Demo**: [View Portfolio](https://arshita01.github.io/personal-portfolio)
-
 ## ✨ Features
 
 - Typing animation on the hero section
@@ -14,8 +12,6 @@ A responsive and interactive personal portfolio website built using **HTML**, **
 - Owl Carousel for slider
 - Skill progress bars
 - Downloadable resume link
-
----
 
 ##  Project Structure
 
@@ -74,7 +70,6 @@ personal-portfolio/
 
 ## 🙏 Acknowledgements
 
-- [Colorlib](https://colorlib.com) — Base portfolio template
 - [AOS.js](https://michalsnik.github.io/aos/) — Scroll animations
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) — Carousel component
 - [Bootstrap](https://getbootstrap.com) — Responsive grid
